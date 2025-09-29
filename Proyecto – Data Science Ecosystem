@@ -1,0 +1,37 @@
+# Proyecto – Data Science Ecosystem
+
+Este cuaderno es una introducción práctica al ecosistema de herramientas utilizadas en ciencia de datos. Forma parte del módulo introductorio del máster / curso de análisis de datos, y tiene como objetivo familiarizar al estudiante con los conceptos básicos del entorno técnico de un data scientist.
+
+## 🎯 Objetivos del cuaderno
+
+- Identificar herramientas y lenguajes populares en ciencia de datos.
+- Reconocer las bibliotecas más utilizadas en Python.
+- Introducir el uso de Jupyter Notebooks con celdas de Markdown y código.
+- Realizar una operación matemática simple como ejercicio práctico.
+
+## 🧰 Herramientas utilizadas
+
+- Jupyter Notebook
+- Python
+- Markdown
+- Visualización embebida
+
+## 📂 Estructura del cuaderno
+
+1. Introducción al ecosistema
+2. Listado de herramientas de ciencia de datos
+3. Listado de lenguajes populares
+4. Librerías comunes en Python
+5. Ejercicio práctico: suma de valores con Python
+6. Markdown: inserción de tablas y operaciones
+
+## 📌 Aprendizajes clave
+
+- Comprensión básica del flujo de trabajo de un cuaderno Jupyter.
+- Uso combinado de texto + código para documentar análisis.
+- Introducción al entorno que usan los profesionales de ciencia de datos.
+
+---
+
+✍️ **Autor:** Dachel Hernández  
+📅 **Fecha:** [Actualizar al día actual]  
