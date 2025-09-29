@@ -1,10 +1,28 @@
-# Dachel-CD
-Este es un repositorio donde subir mis primeros proyectos e ir documentando mi evolución como analista de datos principiantes, es bienvenido todo aquel que quiera ayudarme a mejorar en este camino nuevo para mi
-# ¿Que vamos a encontrar?
-Código fuente de los proyectos.
+# Big Data Portfolio – Dachel Hernández
 
-Readme.md bien redactados con explicación de cada proyecto (objetivo, herramientas, resultados).
+¡Bienvenido a mi portafolio de proyectos de Big Data!
 
-Visualizaciones, imágenes o videos si aplica.
+Este repositorio contiene los proyectos que he desarrollado como parte de mi formación en el máster de análisis de datos, con un enfoque práctico orientado tanto al entorno profesional como a la creación de soluciones reales para mi futura empresa tecnológica.
 
-Organización por carpetas o módulos.
+## 🧠 Objetivos
+- Aplicar de forma práctica los conocimientos adquiridos en cada módulo avanzado del máster.
+- Demostrar habilidades técnicas en herramientas Big Data (Hadoop, Spark, Kafka, NoSQL, Machine Learning...).
+- Crear una base de proyectos reales orientados a negocio y optimización de datos.
+
+## 📁 Estructura del Portafolio
+Cada carpeta corresponde a un módulo o área temática. Dentro de cada una encontrarás:
+- Un `README.md` con la descripción del proyecto
+- Código fuente comentado
+- Resultados o visualizaciones
+- Reflexiones personales y aprendizajes clave
+
+## 🚀 Próximos pasos
+- [x] Crear repositorio y estructura inicial
+- [ ] Subir el proyecto 01: Fundamentos de Hadoop
+- [ ] Documentar aprendizajes de cada etapa
+- [ ] Sincronizar con mi dashboard de Notion
+
+---
+
+Gracias por visitar este portafolio. ¡Estoy en constante aprendizaje y crecimiento!
+
