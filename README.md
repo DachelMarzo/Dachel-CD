@@ -18,7 +18,7 @@ Cada carpeta corresponde a un módulo o área temática. Dentro de cada una enco
 
 ## 🚀 Próximos pasos
 - [x] Crear repositorio y estructura inicial
-- [ ] Subir el proyecto 01: Fundamentos de Hadoop
+- [ ] Subir los archivos
 - [ ] Documentar aprendizajes de cada etapa
 - [ ] Sincronizar con mi dashboard de Notion
 
